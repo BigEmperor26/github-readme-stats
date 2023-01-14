@@ -14,6 +14,6 @@ jobs:
       - uses: tgymnich/fork-sync@v1.6.3
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
-          owner: anuraghazra
+          owner: BigEmperor26
           base: master
           head: master
